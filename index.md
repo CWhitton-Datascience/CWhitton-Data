@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Hello! my name is Cameron Whitton and I am an Information Science major in the data science and analytics track
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
+This blog is for LIS 4273 Advanced statistics and analytics but may also be used for other courses in the future.
